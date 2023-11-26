@@ -7,13 +7,13 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnoibotz&label=Profile%20views&color=0e75b6&style=flat" alt="bishnoibotz" /> </p>
 
-- 🔭 I’m currently working on [Telegram movie bot's](https://t.me/Bishnoi_botz)
+- 🔭 I’m currently working on [Telegram bot's](https://t.me/Bishnoi_botz)
 
 - 👨‍💻 All of my projects are available at [https://t.me/Bishnoi_botz](https://t.me/Bishnoi_botz)
 
 - 💬 Ask me about **https://t.me/Bishnoi_botz**
 
-- 📫 How to reach me **1abhishekvishnoi@gmail.com**
+- 📫 How to reach me **coming soon**
 
 - ⚡ Fun fact **I think I am funny**
 
