@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Telegram bot's](https://t.me/Bishnoi_botz)
 
-- 👨‍💻 All of my projects are available at [Bishnoi_botz](https://t.me/Bishnoi_botz)
+- 👨‍💻 All of my projects are available at [𝐁𝐢𝐬𝐡𝐧𝐨𝐢 𝐁𝐨𝐭𝐳](https://t.me/Bishnoi_botz)
 
-- 💬 Ask me about **https://t.me/Bishnoi_botz**
+- 💬 Ask me about **https://t.me/Know_Abhii**
 
 - 📫 How to reach me **coming soon**
 
