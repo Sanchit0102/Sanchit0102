@@ -4,32 +4,39 @@
 <h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="Sanchit0102" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
 
-- 🔭 I’m currently working on [Telegram bot's](https://t.me/THE_DS_OFFICIAL)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit0102" alt="sanchit0102" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [My Profile]([https://t.me/Bishnoi_botz](https://github.com/Sanchit0102?tab=repositories))
+- 🔭 I’m currently working on [Telegram Bot's](https://t.me/THE_DS_OFFICIAL)
 
-- 💬 Ask me about **https://t.me/THE_DS_OFFICIAL**
+- 🌱 I’m currently learning **My World**
 
-- 📫 How to reach me **On Telegram**
+- 🤝 I’m looking for help with [My Knowledge](https://t.me/THE_DS_OFFICIAL)
 
-- ⚡ Fun fact **I think I am NOt lazy About Coding**
+- 👨‍💻 All of my projects are available at [(https://github.com/Sanchit0102?tab=repositories]((https://github.com/Sanchit0102?tab=repositories)
+
+- 💬 Ask me about **Friendship**
+
+- 📫 How to reach me **https://t.me/THE_DS_OFFICIAL**
+
+- 📄 Know about my experiences [(https://github.com/Sanchit0102?tab=repositories]((https://github.com/Sanchit0102?tab=repositories)
+
+- ⚡ Fun fact **I think I am Not lazy About Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek vishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek vishnoi" height="30" width="40" /></a>
-<a href="https://instagram.com/Sanchit_Darandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanchit_Darandale" height="30" width="40" /></a>
+<a href="https://instagram.com/sanchit_darandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_darandale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit0102&" alt="Sanchit0102" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0102&show_icons=true&locale=en&layout=compact" alt="sanchit0102" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchit0102&show_icons=true&locale=en" alt="sanchit0102" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchit0102&" alt="sanchit0102" /></p>
 
 
 
