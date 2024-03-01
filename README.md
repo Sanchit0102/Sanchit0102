@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Sanchit0102/Sanchit0102/blob/main/3d20326bdcf5b34c8831228e10df359a.jpg)
 
-<h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️)</h1>
+<h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT⚡️)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
