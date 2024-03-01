@@ -12,15 +12,11 @@
 
 - 🌱 I’m currently learning **My World**
 
-- 🤝 I’m looking for help with [My Knowledge](https://t.me/THE_DS_OFFICIAL)
-
-- 👨‍💻 All of my projects are available at [(https://github.com/Sanchit0102?tab=repositories]((https://github.com/Sanchit0102?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Profile](https://github.com/Sanchit0102?tab=repositories)
 
 - 💬 Ask me about **Friendship**
 
-- 📫 How to reach me **https://t.me/THE_DS_OFFICIAL**
-
-- 📄 Know about my experiences [(https://github.com/Sanchit0102?tab=repositories]((https://github.com/Sanchit0102?tab=repositories)
+- 📫 How to reach me **On Telegram**
 
 - ⚡ Fun fact **I think I am Not lazy About Coding**
 
