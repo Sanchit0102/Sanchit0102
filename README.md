@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sanchit_darandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_darandale" height="30" width="40" /></a>
+<a href="https://telegram.me/THE_DS_OFFICIAL" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKAE2op_kK1kSFn6jgPEeBIE7phPDgknJVxavcNRAFw&s" alt="cod3sofabhi" height="50" width="60"  margin="5" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
