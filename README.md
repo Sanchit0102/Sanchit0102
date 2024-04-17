@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit0102" alt="sanchit0102" /></a> </p>
 
-- 🔭 I’m currently working on [Telegram Bot's](https://t.me/THE_DS_OFFICIAL)
+➣ 👨‍💼 <b>A College Student</b>
 
-- 🌱 I’m currently learning **My World**
+➣ 👨‍💻 <b>Nòóв As Nᴜʙ Cødєr</b>
 
-- 👨‍💻 All of my projects are available at [My Profile](https://github.com/Sanchit0102?tab=repositories)
+➣ 📚 <b>Tʀʏɪɴɢ to Lᴇᴀʀɴ Bᴇᴛᴛᴇʀ </b> 🚶🏻‍♂️
 
-- 💬 Ask me about **Friendship**
+➣ 🛡 <b>Still Making Mistakes</b> 🤷‍♂️
 
-- 📫 How to reach me **On Telegram**
+➣ 👨‍💻 <b>All of my projects are available at [My Profile](https://github.com/Sanchit0102?tab=repositories)</b>
 
-- ⚡ Fun fact **I think I am Not lazy About Coding**
+➣ ⚡ <b>Fun fact I think I am Not lazy About Coding!</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
