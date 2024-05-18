@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Sanchit0102/Sanchit0102/blob/main/3d20326bdcf5b34c8831228e10df359a.jpg)
+![logo](https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT⚡️)</h1>
 <h3 align="center">A passionate frontend developer from India / Maharashtra</h3>
