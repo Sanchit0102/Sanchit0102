@@ -34,10 +34,6 @@
 
 [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/TG_icon.png" width="60px">](https://telegram.me/THE_DS_OFFICIAL) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/GH_icon.png" width="60px">](https://github.com/Sanchit0102) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/IG_icon.png" width="60px">](https://instagram.com/sanchit_darandale)
 
-<a href="https://instagram.com/sanchit_darandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_darandale" height="30" width="40" /></a>
-<a href="https://telegram.me/THE_DS_OFFICIAL" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKAE2op_kK1kSFn6jgPEeBIE7phPDgknJVxavcNRAFw&s" alt="cod3sofabhi" height="50" width="60"  margin="5" /></a>
-</p>
-
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
 <h3 align="left">Languages and Tools:</h3>
