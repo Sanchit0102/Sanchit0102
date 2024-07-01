@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT⚡️)</h1>
 <h3 align="center">A passionate frontend developer from India / Maharashtra</h3>
 
-[<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
@@ -29,7 +27,7 @@
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><b>Connect with me:</b>b</h3>
 <p align="center">
 
 [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/TG_icon.png" width="60px">](https://telegram.me/THE_DS_OFFICIAL) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/GH_icon.png" width="60px">](https://github.com/Sanchit0102) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/IG_icon.png" width="60px">](https://instagram.com/sanchit_darandale)
