@@ -34,12 +34,12 @@
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
-<h1> <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/analytics.webp" width="55px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img align="center" src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/analytics.webp" width="55px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0102&show_icons=true&locale=en&layout=compact" alt="sanchit0102" /></p>
 
