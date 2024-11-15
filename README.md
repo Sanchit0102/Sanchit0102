@@ -3,7 +3,7 @@
 ![logo](https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT⚡️)</h1>
-<h3 align="center">A passionate frontend developer from India / Maharashtra</h3>
+<h3 align="center">A passionate developer from India / Maharashtra</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
 
