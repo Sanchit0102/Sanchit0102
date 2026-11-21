@@ -59,19 +59,37 @@
   <a href="https://github.com/Sanchit0102?tab=repositories">My GitHub Repositories</a>
 </p>
 -->
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-- 🎓 AI & Data Science Student from Maharashtra, India.
-- 💻 Passionate about building real-world software solutions.
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Data Science.
-- ⚙️ Interested in Backend Development, APIs & Automation.
-- 🚀 Learning new technologies and improving my development skills.
-- 🧩 Believe in learning by building, experimenting and solving problems.
-<br clear="right"/>
+<ul>
+<li>🎓 AI & Data Science Student from Maharashtra, India.</li>
+<li>💻 Passionate about building real-world software solutions.</li>
+<li>🤖 Exploring Artificial Intelligence, Machine Learning & Data Science.</li>
+<li>⚙️ Interested in Backend Development, APIs & Automation.</li>
+<li>🚀 Learning new technologies and improving my development skills.</li>
+<li>🧩 Believe in learning by building, experimenting and solving problems.</li>
+</ul>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>🎯 Current Focus:</b> Turning ideas into practical projects through code.
+</p>
+
+<p align="center">
+  <i>⚡ Think. Code. Debug. Improve. Repeat.</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/Sanchit0102">
