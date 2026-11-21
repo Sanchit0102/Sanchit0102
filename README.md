@@ -9,7 +9,11 @@
   <a href="https://github.com/Sanchit0102">
     <img src="https://badges.pufler.dev/years/Sanchit0102" alt="Years Badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Sanchit0102">
     <img src="https://badges.pufler.dev/repos/Sanchit0102" alt="Repos Badge" />
   </a>
