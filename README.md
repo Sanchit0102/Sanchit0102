@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== ABOUT ME ==================== 
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -58,6 +58,25 @@
   <b>📂 Explore My Projects:</b>
   <a href="https://github.com/Sanchit0102?tab=repositories">My GitHub Repositories</a>
 </p>
+-->
+---
+
+## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
+
+- 🎓 AI & Data Science Student from Maharashtra, India.
+- 💻 Passionate about building real-world software solutions.
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Data Science.
+- ⚙️ Interested in Backend Development, APIs & Automation.
+- 🚀 Learning new technologies and improving my development skills.
+- 🧩 Believe in learning by building, experimenting and solving problems.
+
+**🎯 Current Focus:** Turning ideas into practical projects through code.
+
+**⚡ Developer Mindset:** Think. Code. Debug. Improve. Repeat.
+
+<br clear="right"/>
 
 <p align="center">
   <a href="https://github.com/Sanchit0102">
