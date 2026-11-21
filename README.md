@@ -41,6 +41,8 @@
 
 <h1> <img align="center" src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/analytics.webp" width="55px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanchit0102&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0102&show_icons=true&locale=en&layout=compact" alt="sanchit0102" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchit0102&show_icons=true&locale=en" alt="sanchit0102" /></p>
