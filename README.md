@@ -11,9 +11,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanchit</h1>
-<h2 align="center">ՏIᒪᗴᑎT ᘜᕼOՏT ⚡</h2>
 
-<h3 align="center">💻 Passionate Developer | AI & Data Science Student | India 🇮🇳</h3>
+<h3 align="center">💻 Passionate Developer | AI & Data Science Student | India</h3>
 
 <p align="center">
   <a href="https://github.com/Sanchit0102">
