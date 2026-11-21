@@ -19,6 +19,8 @@
   </a>
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sanchit0102)
+
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Sanchit0102?count=6&padding=15&perRow=3)](https://github.com/Sanchit0102)
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
