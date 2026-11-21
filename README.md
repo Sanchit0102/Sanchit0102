@@ -5,9 +5,12 @@
 <h1 align="center">Hi 👋, I'm Sanchit (ՏIᒪᗴᑎT ᘜᕼOՏT⚡️)</h1>
 <h3 align="center">A passionate developer from India / Maharashtra</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
-
-[![Repos Badge](https://badges.pufler.dev/repos/Sanchit0102)](https://github.com/Sanchit0102)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://badges.pufler.dev/repos/Sanchit0102" alt="Repos Badge" />
+  </a>
+</p>
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Sanchit0102?count=6&padding=15&perRow=3)](https://github.com/Sanchit0102)
 
