@@ -76,11 +76,6 @@
 <br clear="right"/>
 
 <p align="center">
-  <b>🎯 Current Focus</b><br/>
-  Turning ideas into practical projects.
-</p>
-
-<p align="center">
   <i>⚡ Think. Code. Debug. Improve. Repeat.</i>
 </p>
 
