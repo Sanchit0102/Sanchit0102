@@ -32,7 +32,7 @@
   </a>
 </p>
 
----
+
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -55,7 +55,7 @@
   <a href="https://github.com/Sanchit0102?tab=repositories">My GitHub Repositories</a>
 </p>
 
----
+
 
 <!-- ==================== LAST STARS ==================== -->
 
@@ -67,7 +67,7 @@
   </a>
 </p>
 
----
+
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
@@ -79,7 +79,7 @@
   </a>
 </p>
 
----
+
 
 <!-- ==================== TERMINAL ==================== -->
 
@@ -91,7 +91,7 @@
   </a>
 </p>
 
----
+
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -166,8 +166,6 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06"/>
 </p>
 
----
-
 <!-- ==================== CONNECT ==================== -->
 
 <h2 align="left">🌐 Connect With Me</h2>
@@ -184,11 +182,11 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <b>📬 Feel free to connect, collaborate and build something amazing!</b>
 </p>
 
----
+
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
@@ -204,7 +202,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanchit0102&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
----
+
 
 <!-- ==================== FOOTER ==================== -->
 
