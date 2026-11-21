@@ -237,7 +237,6 @@
 </p>
 
 
-
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
@@ -249,15 +248,6 @@
 <h3 align="center">Code Beyond Limits. Build Beyond Imagination.</h3>
 
 <p align="center">
-  <a href="https://github.com/Sanchit0102">
-    <img src="https://img.shields.io/badge/GitHub-Sanchit0102-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://t.me/THE_DS_OFFICIAL">
-    <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
   <i>"Every expert was once a beginner who refused to give up."</i>
 </p>
 
@@ -267,4 +257,8 @@
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
+</p>
+
+<p align="center">
+  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Silent Ghost Animation"/>
 </p>
