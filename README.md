@@ -59,32 +59,25 @@
   <a href="https://github.com/Sanchit0102?tab=repositories">My GitHub Repositories</a>
 </p>
 -->
+
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer Coding"/>
+</p>
 
-<ul>
-<li>🎓 AI & Data Science Student from Maharashtra, India.</li>
-<li>💻 Passionate about building real-world software solutions.</li>
-<li>🤖 Exploring Artificial Intelligence, Machine Learning & Data Science.</li>
-<li>⚙️ Interested in Backend Development, APIs & Automation.</li>
-<li>🚀 Learning new technologies and improving my development skills.</li>
-<li>🧩 Believe in learning by building, experimenting and solving problems.</li>
-</ul>
+- 🎓 AI & Data Science Student 🇮🇳
+- 💻 Building real-world software solutions
+- 🤖 Exploring AI, ML & Data Science
+- ⚙️ Interested in Backend & API Development
+- 🚀 Learning and experimenting with new technologies
+- 🧩 Solving problems through code
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <p align="center">
-  <b>🎯 Current Focus:</b> Turning ideas into practical projects through code.
+  <b>🎯 Current Focus</b><br/>
+  Turning ideas into practical projects.
 </p>
 
 <p align="center">
