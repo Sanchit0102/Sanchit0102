@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit0102">
-    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="500%" alt="Header Animation"/>
   </a>
 </p>
 
