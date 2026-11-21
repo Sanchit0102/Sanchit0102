@@ -61,9 +61,9 @@
 -->
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 
 - 🎓 AI & Data Science Student from Maharashtra, India.
 - 💻 Passionate about building real-world software solutions.
