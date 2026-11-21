@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg" width="500" alt="Profile Logo"/>
+  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg" width="600" alt="Profile Logo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanchit</h1>
@@ -32,7 +32,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+  </a>
+</p>
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -55,9 +59,13 @@
   <a href="https://github.com/Sanchit0102?tab=repositories">My GitHub Repositories</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+  </a>
+</p>
 
-
-<!-- ==================== LAST STARS ==================== -->
+<!-- ==================== LAST STARS ==================== 
 
 <h2 align="center">⭐ Recently Starred Repositories</h2>
 
@@ -66,7 +74,7 @@
     <img src="https://badges.pufler.dev/last-stars/Sanchit0102?count=6&padding=15&perRow=3" alt="Recently Starred Repositories"/>
   </a>
 </p>
-
+-->
 
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
@@ -79,7 +87,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+  </a>
+</p>
 
 <!-- ==================== TERMINAL ==================== -->
 
@@ -91,7 +103,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+  </a>
+</p>
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -186,7 +202,11 @@
   <b>📬 Feel free to connect, collaborate and build something amazing!</b>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+  </a>
+</p>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
