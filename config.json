@@ -1,0 +1,19 @@
+{
+  "theme": "dracula",
+  "headerStyle": "mac",
+  "hostname": "github.com",
+  "typingSpeed": 80,
+  "sourceType": "user",
+  "target": "Sanchit0102",
+  "commands": [
+    "whoami",
+    "neofetch",
+    "languages",
+    "uptime",
+    "top-repos",
+    "git-log",
+    "ps",
+    "exit"
+  ],
+  "customCommands": {}
+}
