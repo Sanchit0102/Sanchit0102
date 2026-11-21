@@ -7,6 +7,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchit0102&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit0102" /> </p>
 
+[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://github.com/Sanchit0102)
+
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sanchit0102&theme=discord" alt="sanchit0102" /></a> </p>
