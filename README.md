@@ -45,8 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0102&show_icons=true&locale=en&layout=compact" alt="sanchit0102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchit0102&show_icons=true&locale=en" alt="sanchit0102" /></p>
-
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
 
