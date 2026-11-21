@@ -184,7 +184,7 @@
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
   <a href="https://t.me/THE_DS_OFFICIAL">
