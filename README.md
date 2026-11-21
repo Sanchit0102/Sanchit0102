@@ -19,7 +19,11 @@
   </a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sanchit0102)
+<p align="center">
+  <a href="https://github.com/sanchit0102">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</p>
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Sanchit0102?count=6&padding=15&perRow=3)](https://github.com/Sanchit0102)
 
