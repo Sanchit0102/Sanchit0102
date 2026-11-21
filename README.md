@@ -9,8 +9,7 @@
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanchit0102)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit0102" alt="sanchit0102" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanchit0102&theme=algolia" alt="sanchit0102" /></a> </p>
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
