@@ -48,8 +48,8 @@
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit0102)
 
 <p align="center">
-  <a href="https://github.com/sanchit0102">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sanchit0102&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cgit-log%2Cps%2Cexit" alt="Readme Terminal" />
+  <a href="https://github.com/Sanchit0102">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sanchit0102&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cgit-log%2Cps%2Cexit" alt="GitHub Stats Terminal" />
   </a>
 </p>
 
