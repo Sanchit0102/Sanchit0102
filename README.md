@@ -63,7 +63,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
 
 - 🎓 AI & Data Science Student from Maharashtra, India.
 - 💻 Passionate about building real-world software solutions.
@@ -71,11 +71,6 @@
 - ⚙️ Interested in Backend Development, APIs & Automation.
 - 🚀 Learning new technologies and improving my development skills.
 - 🧩 Believe in learning by building, experimenting and solving problems.
-
-**🎯 Current Focus:** Turning ideas into practical projects through code.
-
-**⚡ Developer Mindset:** Think. Code. Debug. Improve. Repeat.
-
 <br clear="right"/>
 
 <p align="center">
