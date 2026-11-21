@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg" width="180" alt="Profile Logo"/>
+  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/OIG1.jpeg" width="500" alt="Profile Logo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanchit</h1>
@@ -97,9 +97,9 @@
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="left">💻 Programming Languages</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -109,9 +109,9 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-<h3 align="center">🤖 AI / ML & Data Science</h3>
+<h3 align="left">🤖 AI / ML & Data Science</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
@@ -119,9 +119,9 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-<h3 align="center">⚙️ Frameworks & Backend Development</h3>
+<h3 align="left">⚙️ Frameworks & Backend Development</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -131,9 +131,9 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-<h3 align="center">🗄️ Databases & Backend Services</h3>
+<h3 align="left">🗄️ Databases & Backend Services</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -141,9 +141,9 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-<h3 align="center">☁️ Cloud, DevOps & Deployment</h3>
+<h3 align="left">☁️ Cloud, DevOps & Deployment</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -155,9 +155,9 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
-<h3 align="center">🔧 Development Tools & Platforms</h3>
+<h3 align="left">🔧 Development Tools & Platforms</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -170,9 +170,9 @@
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/THE_DS_OFFICIAL">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
